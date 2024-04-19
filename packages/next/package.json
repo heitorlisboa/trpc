@@ -1,5 +1,5 @@
 {
-  "name": "@trpc/next",
+  "name": "@heitorlisboa/trpc-next",
   "version": "10.45.1",
   "description": "The tRPC Next.js library",
   "author": "KATT",

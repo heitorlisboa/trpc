@@ -1,5 +1,5 @@
 {
-  "name": "@trpc/server",
+  "name": "@heitorlisboa/trpc-server",
   "version": "10.45.1",
   "description": "The tRPC server library",
   "author": "KATT",

@@ -1,5 +1,5 @@
 {
-  "name": "@trpc/react-query",
+  "name": "@heitorlisboa/trpc-react-query",
   "version": "10.45.1",
   "description": "The tRPC React library",
   "author": "KATT",
