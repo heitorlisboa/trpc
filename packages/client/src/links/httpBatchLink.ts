@@ -49,3 +49,6 @@ const batchRequester: RequesterFn<HTTPBatchLinkOptions<AnyRootTypes>> = (
 };
 
 export const httpBatchLink = createHTTPBatchLink(batchRequester);
+
+export { createHTTPBatchLink } from './internals/createHTTPBatchLink';
+export { getUrl, httpRequest } from './internals/httpUtils';
