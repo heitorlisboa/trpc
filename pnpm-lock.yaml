@@ -165,16 +165,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../../packages/server
+        version: 11.0.0-rc.342
       '@types/node':
         specifier: ^20.10.0
         version: 20.10.4
@@ -238,16 +238,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../../packages/server
+        version: 11.0.0-rc.342
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -290,16 +290,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../../packages/server
+        version: 11.0.0-rc.342
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -336,16 +336,16 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../../packages/server
+        version: 11.0.0-rc.342
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -373,16 +373,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../../packages/server
+        version: 11.0.0-rc.342
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -428,16 +428,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: ^10.35.0
-        version: link:../../../packages/client
+        version: 10.45.1(@trpc/server@10.45.2)
       '@trpc/next':
         specifier: ^10.35.0
-        version: link:../../../packages/next
+        version: 10.45.1(@tanstack/react-query@5.25.0)(@trpc/client@10.45.1)(@trpc/react-query@10.45.1)(@trpc/server@10.45.2)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: ^10.35.0
-        version: link:../../../packages/react-query
+        version: 10.45.1(@tanstack/react-query@5.25.0)(@trpc/client@10.45.1)(@trpc/server@10.45.2)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: ^10.35.0
-        version: link:../../../packages/server
+        version: 10.45.2
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -477,10 +477,10 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
     devDependencies:
       bun-types:
         specifier: ^0.7.3
@@ -502,10 +502,10 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       zod:
         specifier: ^3.0.0
         version: 3.22.4
@@ -536,13 +536,13 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       express:
         specifier: ^4.17.1
         version: 4.18.2
@@ -585,13 +585,13 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       express:
         specifier: ^4.17.1
         version: 4.18.2
@@ -637,10 +637,10 @@ importers:
         version: 10.0.1
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       fastify:
         specifier: ^4.16.0
         version: 4.26.2
@@ -689,10 +689,10 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       tsx:
         specifier: ^4.0.0
         version: 4.6.2
@@ -726,10 +726,10 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       zod:
         specifier: ^3.0.0
         version: 3.22.4
@@ -775,13 +775,13 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../../packages/server
+        version: 11.0.0-rc.342
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -812,7 +812,7 @@ importers:
     dependencies:
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../../packages/server
+        version: 11.0.0-rc.342
       cors:
         specifier: ^2.8.5
         version: 2.8.5
@@ -843,16 +843,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -892,16 +892,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -938,16 +938,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       next:
         specifier: ^14.1.4
         version: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
@@ -987,16 +987,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       clsx:
         specifier: ^2.0.0
         version: 2.0.0
@@ -1090,16 +1090,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       clsx:
         specifier: ^2.0.0
         version: 2.0.0
@@ -1172,16 +1172,16 @@ importers:
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/next':
         specifier: npm:@trpc/next@next
-        version: link:../../packages/next
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       clsx:
         specifier: ^2.0.0
         version: 2.0.0
@@ -1275,10 +1275,10 @@ importers:
     devDependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       '@types/node':
         specifier: ^20.10.0
         version: 20.10.4
@@ -1302,13 +1302,13 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/react-query':
         specifier: npm:@trpc/react-query@next
-        version: link:../../packages/react-query
+        version: 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       ws:
         specifier: ^8.0.0
         version: 8.16.0
@@ -1348,10 +1348,10 @@ importers:
     dependencies:
       '@trpc/client':
         specifier: npm:@trpc/client@next
-        version: link:../../packages/client
+        version: 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
       '@trpc/server':
         specifier: npm:@trpc/server@next
-        version: link:../../packages/server
+        version: 11.0.0-rc.342
       zod:
         specifier: ^3.0.0
         version: 3.22.4
@@ -1378,8 +1378,8 @@ importers:
   packages/client:
     devDependencies:
       '@trpc/server':
-        specifier: ^10.45.1
-        version: link:../server
+        specifier: npm:@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
       '@types/isomorphic-fetch':
         specifier: ^0.0.39
         version: 0.0.39
@@ -1411,14 +1411,14 @@ importers:
         specifier: ^5.25.0
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
-        specifier: 10.45.1
-        version: link:../client
+        specifier: npm:@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)
       '@trpc/react-query':
-        specifier: 10.45.1
-        version: link:../react-query
+        specifier: npm:@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
-        specifier: ^10.45.1
-        version: link:../server
+        specifier: npm:@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
       '@types/express':
         specifier: ^4.17.17
         version: 4.17.17
@@ -1462,11 +1462,11 @@ importers:
         specifier: ^5.25.0
         version: 5.25.0(react@18.2.0)
       '@trpc/client':
-        specifier: 10.45.1
-        version: link:../client
+        specifier: npm:@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)
       '@trpc/server':
-        specifier: ^10.45.1
-        version: link:../server
+        specifier: npm:@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
       '@types/express':
         specifier: ^4.17.17
         version: 4.17.17
@@ -1624,17 +1624,17 @@ importers:
         specifier: ^14.4.3
         version: 14.4.3(@testing-library/dom@10.0.0)
       '@trpc/client':
-        specifier: 10.45.1
-        version: link:../client
+        specifier: npm:@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)
       '@trpc/next':
-        specifier: 10.45.1
-        version: link:../next
+        specifier: npm:@heitorlisboa/trpc-next@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-next@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
-        specifier: 10.45.1
-        version: link:../react-query
+        specifier: npm:@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
-        specifier: ^10.45.1
-        version: link:../server
+        specifier: npm:@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
       '@types/node':
         specifier: ^20.10.0
         version: 20.10.4
@@ -1753,17 +1753,17 @@ importers:
         specifier: ^1.6.22
         version: 1.6.22(react@18.2.0)
       '@trpc/client':
-        specifier: ^10.45.1
-        version: link:../packages/client
+        specifier: npm:@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)
       '@trpc/next':
-        specifier: ^10.45.1
-        version: link:../packages/next
+        specifier: npm:@heitorlisboa/trpc-next@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-next@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/react-query':
-        specifier: ^10.45.1
-        version: link:../packages/react-query
+        specifier: npm:@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(react-dom@18.2.0)(react@18.2.0)
       '@trpc/server':
-        specifier: ^10.45.1
-        version: link:../packages/server
+        specifier: npm:@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+        version: /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
       '@visx/hierarchy':
         specifier: ^3.0.0
         version: 3.0.0(react@18.2.0)
@@ -5952,6 +5952,51 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
+  /@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994):
+    resolution: {integrity: sha512-t4IiqDmWdGGgeg6SOpZ5mU/4uyITK6dZiL/cXj85qVF0YqG2mOXVK7xetvZG8NIqww8+DAztqFQ87QUKAdhBNw==, tarball: https://npm.pkg.github.com/download/@heitorlisboa/trpc-client/10.45.2-alpha-next-2024-04-20-01-23-49.3994/7b6013e227462a6e0a8866dbd687a7a7da7d7493}
+    peerDependencies:
+      '@trpc/server': 10.45.2-alpha-next-2024-04-20-01-23-49.3994+c81362fe
+    dependencies:
+      '@trpc/server': /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+
+  /@heitorlisboa/trpc-next@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-h7UGFwq9oKQASm8zZGDn1aN4wdHA6zjsU+4QOy+Nh7aEDjRI+TKfsAGwz4QdfBDO/6zmokj90Me4tSKuMkVX+Q==, tarball: https://npm.pkg.github.com/download/@heitorlisboa/trpc-next/10.45.2-alpha-next-2024-04-20-01-23-49.3994/be51dc8e27b0c38e55827970a9024e619e7e8633}
+    peerDependencies:
+      '@tanstack/react-query': ^5.25.0
+      '@trpc/client': 10.45.2-alpha-next-2024-04-20-01-23-49.3994+c81362fe
+      '@trpc/react-query': 10.45.2-alpha-next-2024-04-20-01-23-49.3994+c81362fe
+      '@trpc/server': 10.45.2-alpha-next-2024-04-20-01-23-49.3994+c81362fe
+      next: '*'
+      react: '>=16.8.0'
+      react-dom: '>=16.8.0'
+    dependencies:
+      '@tanstack/react-query': 5.25.0(react@18.2.0)
+      '@trpc/client': /@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)
+      '@trpc/react-query': /@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(react-dom@18.2.0)(react@18.2.0)
+      '@trpc/server': /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+      next: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+    dev: false
+
+  /@heitorlisboa/trpc-react-query@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)(@tanstack/react-query@5.25.0)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-hdzWJ/ndVVmiLctRwQ9DXrRXtc+o4PbRQyUFyV7smv2x5euNmZYBsnswA28caIXaAqCi8KmHn+1P8cOt+2nHMQ==, tarball: https://npm.pkg.github.com/download/@heitorlisboa/trpc-react-query/10.45.2-alpha-next-2024-04-20-01-23-49.3994/43cdb81aa68f0a3580fa98e7fe2f2fae32fa0e24}
+    peerDependencies:
+      '@tanstack/react-query': ^5.25.0
+      '@trpc/client': 10.45.2-alpha-next-2024-04-20-01-23-49.3994+c81362fe
+      '@trpc/server': 10.45.2-alpha-next-2024-04-20-01-23-49.3994+c81362fe
+      react: '>=18.2.0'
+      react-dom: '>=18.2.0'
+    dependencies:
+      '@tanstack/react-query': 5.25.0(react@18.2.0)
+      '@trpc/client': /@heitorlisboa/trpc-client@10.45.2-alpha-next-2024-04-20-01-23-49.3994(@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994)
+      '@trpc/server': /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+
+  /@heitorlisboa/trpc-server@10.45.2-alpha-next-2024-04-20-01-23-49.3994:
+    resolution: {integrity: sha512-wigFzk90H3AIxC0BuK+eWEo1ImcZovXxw9GbUSzoOy1DpY14DhD6Ez5jszuUe54RslefWvrFMiCjArH3qQS1Cw==, tarball: https://npm.pkg.github.com/download/@heitorlisboa/trpc-server/10.45.2-alpha-next-2024-04-20-01-23-49.3994/f4fcb090fa102630cffbd4980b367f7c6a0bfdb2}
+
   /@heroicons/react@2.1.1(react@18.2.0):
     resolution: {integrity: sha512-JyyN9Lo66kirbCMuMMRPtJxtKJoIsXKS569ebHGGRKbl8s4CtUfLnyKJxteA+vIKySocO4s1SkTkGS4xtG/yEA==}
     peerDependencies:
@@ -8264,6 +8309,105 @@ packages:
     resolution: {integrity: sha512-XCuKFP5PS55gnMVu3dty8KPatLqUoy/ZYzDzAGCQ8JNFCkLXzmI7vNHCR+XpbZaMWQK/vQubr7PkYq8g470J/A==}
     engines: {node: '>= 10'}
     dev: false
+
+  /@trpc/client@10.45.1(@trpc/server@10.45.2):
+    resolution: {integrity: sha512-nVbAk1xpIiI64WgzXGgfxPOGgHoYvffn1IsjV1D/Ri7DL4BKuo2qtZ7UQ+OuHkzH2M8j4ikSVBDpk545fOdvpw==}
+    peerDependencies:
+      '@trpc/server': 10.45.1
+    dependencies:
+      '@trpc/server': 10.45.2
+    dev: false
+
+  /@trpc/client@11.0.0-rc.342(@trpc/server@11.0.0-rc.342):
+    resolution: {integrity: sha512-uDqeoG3y0Ef/Qtp7l8nNIG05WnLlerSEIJSUXG2vd4CWHjPra2Po17rcCjl4Rr5Jz+w6eJMn1OvWTk7FBIWR0w==}
+    peerDependencies:
+      '@trpc/server': 11.0.0-rc.342+96bcf23a7
+    dependencies:
+      '@trpc/server': 11.0.0-rc.342
+
+  /@trpc/next@10.45.1(@tanstack/react-query@5.25.0)(@trpc/client@10.45.1)(@trpc/react-query@10.45.1)(@trpc/server@10.45.2)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-HSuQ0OcKUtt8mcQ4Mz4GQpy5PkNYJNvC9EEHkqTkEGa71BLEPKviyVWaE7biOlxjA0tM0aDOM21id+cRkEpfXA==}
+    peerDependencies:
+      '@tanstack/react-query': ^4.18.0
+      '@trpc/client': 10.45.1
+      '@trpc/react-query': 10.45.1
+      '@trpc/server': 10.45.1
+      next: '*'
+      react: '>=16.8.0'
+      react-dom: '>=16.8.0'
+    dependencies:
+      '@tanstack/react-query': 5.25.0(react@18.2.0)
+      '@trpc/client': 10.45.1(@trpc/server@10.45.2)
+      '@trpc/react-query': 10.45.1(@tanstack/react-query@5.25.0)(@trpc/client@10.45.1)(@trpc/server@10.45.2)(react-dom@18.2.0)(react@18.2.0)
+      '@trpc/server': 10.45.2
+      next: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+    dev: false
+
+  /@trpc/next@11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/react-query@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-tFeaGPlGTY1vJBppcJmFJsG4ccoCvUHSFPWmR0+vjU24Xd2sAHmSS8VpfyW+r+dLdwD1DXIErZnOVStnLonFzw==}
+    peerDependencies:
+      '@tanstack/react-query': ^5.25.0
+      '@trpc/client': 11.0.0-rc.342+96bcf23a7
+      '@trpc/react-query': 11.0.0-rc.342+96bcf23a7
+      '@trpc/server': 11.0.0-rc.342+96bcf23a7
+      next: '*'
+      react: '>=16.8.0'
+      react-dom: '>=16.8.0'
+    peerDependenciesMeta:
+      '@tanstack/react-query':
+        optional: true
+      '@trpc/react-query':
+        optional: true
+    dependencies:
+      '@tanstack/react-query': 5.25.0(react@18.2.0)
+      '@trpc/client': 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
+      '@trpc/react-query': 11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0)
+      '@trpc/server': 11.0.0-rc.342
+      next: 14.1.4(@babel/core@7.23.2)(react-dom@18.2.0)(react@18.2.0)
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+    dev: false
+
+  /@trpc/react-query@10.45.1(@tanstack/react-query@5.25.0)(@trpc/client@10.45.1)(@trpc/server@10.45.2)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-48OOMpwVjQFUQJqlp9/tW1lqESZg9YEqB5iVci7mYaDzZPEs/YUcV85XKvYzgeW+7K9oShX/JMVce8muON/6uQ==}
+    peerDependencies:
+      '@tanstack/react-query': ^4.18.0
+      '@trpc/client': 10.45.1
+      '@trpc/server': 10.45.1
+      react: '>=16.8.0'
+      react-dom: '>=16.8.0'
+    dependencies:
+      '@tanstack/react-query': 5.25.0(react@18.2.0)
+      '@trpc/client': 10.45.1(@trpc/server@10.45.2)
+      '@trpc/server': 10.45.2
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+    dev: false
+
+  /@trpc/react-query@11.0.0-rc.342(@tanstack/react-query@5.25.0)(@trpc/client@11.0.0-rc.342)(@trpc/server@11.0.0-rc.342)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-zE8F4uNrRVpbz1JRNVpCad89TOq+06HkF4BRo0lqc183fugZ8WAgd7+2lELFJagLH2YvL5N6A2HXomTE0mrbNA==}
+    peerDependencies:
+      '@tanstack/react-query': ^5.25.0
+      '@trpc/client': 11.0.0-rc.342+96bcf23a7
+      '@trpc/server': 11.0.0-rc.342+96bcf23a7
+      react: '>=18.2.0'
+      react-dom: '>=18.2.0'
+    dependencies:
+      '@tanstack/react-query': 5.25.0(react@18.2.0)
+      '@trpc/client': 11.0.0-rc.342(@trpc/server@11.0.0-rc.342)
+      '@trpc/server': 11.0.0-rc.342
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+    dev: false
+
+  /@trpc/server@10.45.2:
+    resolution: {integrity: sha512-wOrSThNNE4HUnuhJG6PfDRp4L2009KDVxsd+2VYH8ro6o/7/jwYZ8Uu5j+VaW+mOmc8EHerHzGcdbGNQSAUPgg==}
+    dev: false
+
+  /@trpc/server@11.0.0-rc.342:
+    resolution: {integrity: sha512-q/h8uWQFols0XAyStHN/1rm9gvK5Zeh221rdqQdzYZUTHtjHgseKa90/AGPntVVeaZVm54nXktIMsQA2S7tXCQ==}
 
   /@trysound/sax@0.2.0:
     resolution: {integrity: sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==}
